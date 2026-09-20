@@ -43,7 +43,6 @@ Cantidad: 5
 Descuento: 10%
 
 Resultado:
-
 Subtotal: $50.00  
 Total a pagar: $45.00
 
